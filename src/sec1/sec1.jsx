@@ -174,7 +174,7 @@ I have successfully enhanced my skills and knowledge through various certificati
                         <br></br><br></br>
  <div className='flex '> <div className='ml-[10%]'>                     
 <ul><li className=' font-bold'>University of Moratuwa</li></ul>
-  <li>Python for Beginners <a href='/PY.pdf' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
+  <li>Python for Beginners <a href='/MyPortfolio/PY.pdf' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
   <li> Web Design for Beginners<a href='/WD.pdf' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   <li> Front-End Web Design<a href='/FD.pdf' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
 <br></br><br></br>
