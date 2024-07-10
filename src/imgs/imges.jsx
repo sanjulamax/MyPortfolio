@@ -15,6 +15,16 @@ import gmail from '../imgs/gmail.webp'
 import phone from '../imgs/phone.png'
 import whats from '../imgs/whats.png'
 import git10 from '../imgs/git10.png'
+import python from '../imgs/python.png'
+import java from '../imgs/java.png'
+import js from '../imgs/javascript.png'
+import html from '../imgs/html.png'
+import c from '../imgs/c.png'
+import sql from '../imgs/sql.png'
+import FD from '../imgs/FD.pdf'
+import WD from '../imgs/WD.pdf'
+import CV from '../imgs/CV.pdf'
+import PY from '../imgs/PY.pdf'
 
 
 
@@ -35,6 +45,16 @@ const Imgs = {
     skill4,
     iam,
     git10,
+    java,
+    python,
+    c,
+    js,
+    html,
+    sql,
+    FD,
+    WD,
+    CV,
+    PY
 
 
 }
