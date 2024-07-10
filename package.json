@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "node": "^18.20.4",
+    "vite": "^5.3.3"
+  },
+
+  
+  "scripts": {
+    "dev": "vite"
+  
+}
+
+}
