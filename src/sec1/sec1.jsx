@@ -182,7 +182,7 @@ I have successfully enhanced my skills and knowledge through various certificati
                             <li>Python <a href='./python.png' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
                             <li> Java <a href='./java.png' className='ml-[26%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
                             <li> JavaScript<a href='/javascript.png' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-   <li> FUCKERS<a href='/javascript.png' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+   
   <li> SQL<a href='./sql.png' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
  
   <li> HTMLS<a href='https://drive.google.com/file/d/17NGN873bzdHVRTvgHMxhhZbniH9474qx/view?usp=drive_link' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
