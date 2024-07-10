@@ -174,29 +174,29 @@ I have successfully enhanced my skills and knowledge through various certificati
                         <br></br><br></br>
  <div className='flex '> <div className='ml-[10%]'>                     
 <ul><li className=' font-bold'>University of Moratuwa</li></ul>
-  <li>Python for Beginners <a href='./MyPortfolio/PY.pdf' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
-  <li> Web Design for Beginners<a href='./WD.pdf' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-  <li> Front-End Web Design<a href='./FD.pdf' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li>Python for Beginners <a href='/MyPortfolio/PY.pdf' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
+  <li> Web Design for Beginners<a href='/WD.pdf' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> Front-End Web Design<a href='/FD.pdf' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
 <br></br><br></br>
 <ul><li className=' font-bold'>SoloLearn</li></ul> 
-                            <li>Python <a href='./python.png' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-                            <li> Java <a href='./java.png' className='ml-[26%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+                            <li>Python <a href='/python.png' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+                            <li> Java <a href='/java.png' className='ml-[26%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
                             <li> JavaScript<a href='/javascript.png' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   
-  <li> SQL<a href='./sql.png' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> SQL<a href='/sql.png' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
  
-  <li> HTML<a href='https://drive.google.com/file/d/17NGN873bzdHVRTvgHMxhhZbniH9474qx/view?usp=drive_link' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> HTML<a href='/html.png' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   
 
   
-  <li> C Language <a href='https://drive.google.com/file/d/17NGN873bzdHVRTvgHMxhhZbniH9474qx/view?usp=drive_link' className='ml-[5%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li><br></br><br></br> 
+  <li> C Language <a href='/c.png' className='ml-[5%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li><br></br><br></br> 
  
   </div> <img src={Imgs.skill} className='max-sm:hidden h-[300px] relative top-20'></img></div>
  
 These certifications highlight my proficiency in both foundational and advanced concepts across multiple programming languages and web development technologies.
                     </p>
                     
-                   <div className='flex items-center justify-center'><a href='./CV.pdf'> <button className=' bg-blue-700 border-2 border-blue-700 rounded-lg text-white p-[10px] mt-[20px]'>VIEW MY CV</button></a></div>
+                   <div className='flex items-center justify-center'><a href='/CV.pdf'> <button className=' bg-blue-700 border-2 border-blue-700 rounded-lg text-white p-[10px] mt-[20px]'>VIEW MY CV</button></a></div>
 
                     </div>
 
