@@ -189,7 +189,7 @@ I have successfully enhanced my skills and knowledge through various certificati
   
 
   
-  <li> C Language <a href='./c.png' className='ml-[5%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li><br></br><br></br> 
+  <li> C Language <a href='https://drive.google.com/file/d/17NGN873bzdHVRTvgHMxhhZbniH9474qx/view?usp=drive_link' className='ml-[5%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li><br></br><br></br> 
  
   </div> <img src={Imgs.skill} className='max-sm:hidden h-[300px] relative top-20'></img></div>
  
